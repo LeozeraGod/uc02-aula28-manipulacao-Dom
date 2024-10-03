@@ -14,9 +14,20 @@ const dadosPessoa = {
       "estadoCivil": "Casado",  
       "profissao": "Desenvolvedor de Software",  
       "dataNascimento": "01/01/1980",
-      "urls": ["https://www.linkedin.com/leonardoSouza",
-      "https://github.com/LeozeraGod",
-      "https://facebook.com/LeonardoSouza"]
+      "urls": [
+{ "Titulo": "Linkedin",
+    "url": "https://www.linkedin.com/leonardoSouza",
+    },
+{
+    "Titulo": "GitHub",
+    "url": "https://www.github.com/leozeragod",
+},
+{
+    "Titulo": "Facebook",
+    "url": "https://www.facebook.com/leonardoSouza",
+}
+    
+]
 }
 
 // Montagem da Div title 
